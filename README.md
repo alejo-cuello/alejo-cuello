@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alejo-cuello
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: alejocuello.w@gmail.com
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: alejocuello.ib@gmail.com
