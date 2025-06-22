@@ -18,8 +18,8 @@ Today, I’m fully focused on Data Science, combining my technical background wi
 
 ## 📂 Highlighted Repositories
 
-- World Development Indicators – Argentina: My personal data analysis project applying the full data science workflow
-- Platzi Courses Practice: Code examples from all the data science courses I’ve completed, organized by branch
+- [first-steps-data-science](https://github.com/alejo-cuello/first-steps-data-science) Platzi Courses Practice: Code examples from all the data science courses I’ve completed, organized by branch
+- [research-on-argentina](https://github.com/alejo-cuello/research-on-argentina) World Development Indicators – Argentina: My personal data analysis project applying the full data science workflow
 
 ## 📚 Certifications
 All of my course certifications are available on LinkedIn.
