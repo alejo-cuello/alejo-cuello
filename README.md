@@ -1,11 +1,32 @@
-👋 Hi, I’m @alejo-cuello.
+# Welcome to my GitHub Profile
 
-🎓 I'm an **Information Systems Engineer**, graduated in 2023 from the National Technological University.\
-👨‍💻 I have worked as a mobile developer and project manager at Diproach, a software company in Córdoba, Argentina.\
-🧠 Currently, I'm working as a business analyst at Syloper, a software factory in Rosario, Argentina.\
-🌱 I’ve been learning **Data Science** since December 2023. I aspire to work at a Data Science company in the future.
+## 👋 Hi, I'm Alejo
 
-📫**Contact**:
+I'm an Information Systems Engineer from Argentina, currently focused on becoming a Data Scientist.
+
+## 🔁 Career Transition
+
+For several years, I worked as a Mobile Developer and Business Analyst, participating in projects using a wide range of technologies. I’ve built mobile apps, managed projects, and helped teams deliver high-quality software.
+
+Today, I’m fully focused on Data Science, combining my technical background with new skills in data analysis, statistics, and machine learning to solve real-world problems using data.
+
+## 🎯 What I’m Doing Now
+- Studying Data Science through multiple courses on Platzi
+- Working on personal projects involving data wrangling, analysis, and visualization
+ Practicing with tools like Python, Pandas, Matplotlib, Seaborn, and Scikit-learn
+- Sharing what I learn through code and notebooks in public repositories
+
+## 📂 Highlighted Repositories
+
+- World Development Indicators – Argentina: My personal data analysis project applying the full data science workflow
+- Platzi Courses Practice: Code examples from all the data science courses I’ve completed, organized by branch
+
+## 📚 Certifications
+All of my course certifications are available on LinkedIn.
+
+## 🤝 Let’s Connect
+I’m always open to learning from others and contributing to collaborative projects. Feel free to reach out or check out my work!
+
+## 📫**Contact**:
 - Email: alejocuello.ib@gmail.com
 - Linkedin: https://www.linkedin.com/in/alejo-cuello/
-
