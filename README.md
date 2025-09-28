@@ -24,7 +24,7 @@ Today, I’m fully focused on Data Science, combining my technical background wi
 - [bootcamp-ds-mlops](https://github.com/alejo-cuello/bootcamp-ds-mlops) Data Science and Machine Learning Operations: Containing all projects developed during this bootcamp.
 
 ## 📚 Certifications
-All of my course certifications are available on LinkedIn.
+All of my course certifications are available on [LinkedIn](https://www.linkedin.com/in/alejo-cuello/).
 
 ## 🤝 Let’s Connect
 I’m always open to learning from others and contributing to collaborative projects. Feel free to reach out or check out my work!
