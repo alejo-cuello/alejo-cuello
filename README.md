@@ -11,6 +11,7 @@ For several years, I worked as a Mobile Developer and Business Analyst, particip
 Today, I’m fully focused on Data Science, combining my technical background with new skills in data analysis, statistics, and machine learning to solve real-world problems using data.
 
 ## 🎯 What I’m Doing Now
+- Taking a Data Science and MLOps organized by Escuela de Datos Vivos
 - Studying Data Science through multiple courses on Platzi
 - Working on personal projects involving data wrangling, analysis, and visualization
  Practicing with tools like Python, Pandas, Matplotlib, Seaborn, and Scikit-learn
