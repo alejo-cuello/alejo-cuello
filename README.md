@@ -18,8 +18,9 @@ Today, I’m fully focused on Data Science, combining my technical background wi
 
 ## 📂 Highlighted Repositories
 
-- [first-steps-data-science](https://github.com/alejo-cuello/first-steps-data-science) Platzi Courses Practice: Code examples from all the data science courses I’ve completed, organized by branch
-- [research-on-argentina](https://github.com/alejo-cuello/research-on-argentina) World Development Indicators – Argentina: My personal data analysis project applying the full data science workflow
+- [first-steps-data-science](https://github.com/alejo-cuello/first-steps-data-science) Platzi Courses Practice: Code examples from all the data science courses I’ve completed, organized by branch.
+- [research-on-argentina](https://github.com/alejo-cuello/research-on-argentina) World Development Indicators – Argentina: My personal data analysis project applying the full data science workflow.
+- [bootcamp-ds-mlops](https://github.com/alejo-cuello/bootcamp-ds-mlops) Data Science and Machine Learning Operations: Containing all projects developed during this bootcamp.
 
 ## 📚 Certifications
 All of my course certifications are available on LinkedIn.
