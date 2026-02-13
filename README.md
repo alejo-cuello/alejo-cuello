@@ -13,8 +13,8 @@ Today, I’m focused on Data Science, combining my technical background with new
 ## 🎯 What I’m Doing Now
 - Studying Data Science through multiple courses on Platzi
 - Working on personal projects involving data wrangling, analysis, visualization, model building and deployment
-- Practicing with tools like Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, FastAPI, Uvicorn, MLFlow and 
-
+- Practicing with tools like Python, SQL, MySQL, Git, GIthub, HuggingFace, WSL, MLFlow, Gradio, AWS (Amazon Web Services), ngrok and Docker
+  
 ## 📂 Highlighted Repositories
 
 - [gym-clients](https://github.com/alejo-cuello/gym-clients) Segment customers based on their gym routines. I used this project to learn how to use more AI tools.
